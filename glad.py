@@ -1,9 +1,10 @@
 import random
-
+import time
 
 spelare_hälsa = 30
 gladiator_hälsa = 30
 print("Du vaknar upp i ett rum fullt med människor, en kille med en rödd tygg dräkt tittar glor ner på dig")
+
 print("Välkommen till Rom främling, du är på ett väldigt tight situation just nu.")
 print(" Du ser, du är en fångad med dem andra här och ska slåss till dödens om tjejsaren inte säger det själv")
 print("Människorna här kallar oss för gladiator. Vi slåss för våran frihet eller ja, försöker iallafal.")
@@ -53,6 +54,7 @@ while spelare_hälsa > 0 and gladiator_hälsa > 0:
 
 print("Matchen är över.")
     
+print("")
 
    
     
