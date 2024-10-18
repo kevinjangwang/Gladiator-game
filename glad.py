@@ -54,7 +54,14 @@ while spelare_hälsa > 0 and gladiator_hälsa > 0:
 
 print("Matchen är över.")
     
-print("")
+print("Du senare sitter själv i ett annat rum och somnar efter en intense match.")
+print("Nästa dag så vaknar du upp och gubben med rödd tygg på sig sitter bredvid dig.")
+print("Hej igen säger han och tittar bakom sig och tar upp tre olika vapen")
+print("Du kommer bara träffa svårare motståndare från och med nu så det är bäst om du väljer en av dem här vapen")
+print("Kortsvärd som du kan skada din fiende med i distans och nära men gör mer i skada när du är nära")
+print("Spjut, du kan göra en otroligt mycket skada på distans men gör mycket mindre skada om din moståndare står för nära dig")
+print("Morning star, du kan göra otriligt mycket skada om du står nära din motståndare och kan göra en jätte tungt skada på dem men kan bli skadad själv (stun)")
+print("Vad vill du välja kära främling? :3 Kortsvärd, spjut eller morningstar")
 
    
     
